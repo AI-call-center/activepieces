@@ -23,7 +23,7 @@ export const callbeast = createPiece({
     },
   }),
   minimumSupportedRelease: '0.36.1',
-  logoUrl: 'https://aicall.center/logo.png',
+  logoUrl: 'https://aicaller.com/logo.png',
   authors: [],
   actions: [addLeadToCampaign],
   triggers: [phoneCallEnded, inboundCallReceived],
